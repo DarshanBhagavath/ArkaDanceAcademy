@@ -1,0 +1,6 @@
+{
+  "name": "Arka Dance Academy",
+  "description": "Website for Arka Dance Academy featuring a photo gallery and class details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
